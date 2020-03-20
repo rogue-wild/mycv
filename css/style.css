@@ -1,13 +1,40 @@
 
+
 body {
     background-color: #e2fff9;
 }
 hr{
     border-color: grey;
     border-style: dotted none none;
-    border-width: 5px;
-    width: 5%;
+    border-width: 7px;
+    width: 7%;
 }
-img{
+hr:hover{
+    border-color: rgb(93, 177, 72);
+    border-style: dotted none none;
+    border-width: 7px;
+    width: 7%;
+}
+img{ border-radius: 100%;
     height: 200px;
+}
+
+h1{ font-variant: small-caps slashed-zero;
+    color: rgb(79, 206, 206);
+    font-style: oblique 10deg;
+}
+
+h1:hover{ 
+    color: gold;
+
+}
+h3{
+    color: rgb(31, 211, 76);
+    
+    
+}
+h3:hover{
+    color: rgb(211, 31, 121);
+    
+    
 }
