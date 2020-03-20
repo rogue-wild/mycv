@@ -11,7 +11,7 @@ hr{
     border-color: grey;
     border-style: dotted none none;
     border-width: 7px;
-    width: 7%;
+    width: 90%;
 }
 hr:hover{
     border-color: rgb(93, 177, 72);
