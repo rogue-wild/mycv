@@ -11,13 +11,13 @@ hr{
     border-color: grey;
     border-style: dotted none none;
     border-width: 7px;
-    width: 75%;
+    width: 30%;
 }
 hr:hover{
     border-color: rgb(93, 177, 72);
     border-style: dotted none none;
     border-width: 7px;
-    width: 75%;
+    width: 30%;
 }
 img{ border-radius: 100%;
     height: 200px;
